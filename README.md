@@ -1,3 +1,3 @@
 learning-how
 ============
-second readme
+second readme tänne sitten jotain vielä lisää. miten tämän sitten saa päivitettyä?
